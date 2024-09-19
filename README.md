@@ -8,8 +8,6 @@ This project is a simple statistical analysis of a COMPSCI705 within-group exper
 - **Number of Clicks**
 - **Total Duration of Mouse Hover Links**
 
-We perform **descriptive statistics** and a **paired t-test** to analyze differences between the two conditions.
-
 ## Running Environment: Google Colab
 The entire process runs in **Google Colab**. You'll load the dataset from Google Drive and use Python libraries (`pandas`, `scipy`) for data analysis, displaying the results interactively.
 
