@@ -3,6 +3,8 @@
 
 ## Overview
 This project is a simple statistical analysis of a COMPSCI705 within-group experiment using a dataset stored in a CSV file. The experiment involves comparing two effects (popup window vs. highlight) across several variables, including SUS score, Likert score, Number of Clicks, and Total duration of mouse hover links. To find out what was different between the two situations, we used descriptive statistics and a paired t-test.
+
+The experiment compares two effects (popup vs. highlight) on several variables including:
 - **SUS Score**
 - **Likert Score**
 - **Number of Clicks**
