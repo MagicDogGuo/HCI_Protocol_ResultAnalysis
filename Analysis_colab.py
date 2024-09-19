@@ -7,7 +7,7 @@ from scipy import stats
 drive.mount('/content/drive')
 
 # Load the dataset from the specified path
-file_path = '/content/drive/MyDrive/_紐西蘭研究所/Comp705_HCI/protocol/Corrected_Within-Group_Experiment_Results.csv'
+file_path = '/content/drive/MyDrive/{yourfilepath}'
 df = pd.read_csv(file_path)
 # print(df)
 
