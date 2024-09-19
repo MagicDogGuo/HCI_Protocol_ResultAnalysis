@@ -15,7 +15,7 @@ My code can be found in Google Collab at this link: https://colab.research.googl
 
 ## Requirements
 - **Google Colab** account
-- CSV dataset
+- CSV dataset (upload to your Google drive)
 
 ## Steps to Run the Project
 
